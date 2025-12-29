@@ -4,7 +4,7 @@ Shader support for Forge — revived, maintained, and moving forward.
 ## What is Pupil?
 
 Pupil is a community-maintained continuation of pupil, which was an unofficial port of Iris (Fabric shaders) to Forge.  
-Since pupil development has stalled, Pupil aims to keep shader support alive on Forge for modern Minecraft versions.
+Since pupil development has stalled, Pupil aims to keep shader support alive on Forge for modern Minecraft versions
 
 ## Why "Pupil"?
 
